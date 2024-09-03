@@ -10,10 +10,6 @@
 
 package main
 
-import (
-	"fmt"
-)
-
 // Length is fixed
 /*
 func main() {
@@ -74,7 +70,11 @@ func main() {
 */
 
 // Length of Array
+/*
 func main() {
 	prices := [3]int{10, 20, 30}
 	fmt.Println(len(prices))
 }
+*/
+
+// Array slicing

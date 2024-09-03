@@ -8,8 +8,8 @@
 - [X] **Output**
 - [X] **Formatted Output**
 - [X] **Data Types**
-- [ ] **Arrays**
-- [ ] **Slices**
+- [X] **Arrays**
+- [X] **Slices**
 - [ ] **Operator**
 - [ ] **Conditions**
 - [ ] **Switch**
