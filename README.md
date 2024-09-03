@@ -1,0 +1,28 @@
+# Go Language Learning Progress
+
+## Topics
+
+- [X] **Comments**
+- [X] **Variable**
+- [X] **Constant**
+- [X] **Output**
+- [X] **Formatted Output**
+- [X] **Data Types**
+- [ ] **Arrays**
+- [ ] **Slices**
+- [ ] **Operator**
+- [ ] **Conditions**
+- [ ] **Switch**
+- [ ] **Loops**
+- [ ] **Functions**
+- [ ] **Struct**
+- [ ] **Maps**
+
+## Notes
+Keep track of important points or code snippets as you learn.
+
+## Resources
+- [Go Documentation](https://golang.org/doc/)
+- [Go by Example](https://gobyexample.com/)
+
+
