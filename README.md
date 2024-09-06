@@ -10,7 +10,7 @@
 - [X] **Data Types**
 - [X] **Arrays**
 - [X] **Slices**
-- [ ] **Operator**
+- [X] **Operator**
 - [ ] **Conditions**
 - [ ] **Switch**
 - [ ] **Loops**
