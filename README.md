@@ -11,9 +11,9 @@
 - [X] **Arrays**
 - [X] **Slices**
 - [X] **Operator**
-- [ ] **Conditions**
-- [ ] **Switch**
-- [ ] **Loops**
+- [X] **Conditions**
+- [X] **Switch**
+- [x] **Loops**
 - [ ] **Functions**
 - [ ] **Struct**
 - [ ] **Maps**
