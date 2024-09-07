@@ -14,7 +14,7 @@
 - [X] **Conditions**
 - [X] **Switch**
 - [x] **Loops**
-- [ ] **Functions**
+- [X] **Functions**
 - [ ] **Struct**
 - [ ] **Maps**
 
