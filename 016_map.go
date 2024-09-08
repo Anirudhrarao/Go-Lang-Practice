@@ -97,9 +97,29 @@ func main() {
 
 // If two map variables refer to the same hash table, changing the content of one variable affect the content of the other.
 
+/*
 func main() {
 	var a = map[string]string{"brand": "Ford", "model": "Mustang", "year": "1964"}
 	b := a
 	b["brand"] = "Tata"
 	fmt.Println(a["brand"])
+}
+*/
+
+// Interate over maps in specific order
+func main() {
+	a := map[string]int{"one": 1, "two": 2, "three": 3, "four": 4}
+	var b []string // defining the order
+	b = append(b, "one", "two", "three", "four")
+
+	// Loop with no order
+	for k, v := range a {
+		fmt.Printf("%v : %v, ", k, v)
+	}
+	fmt.Println()
+
+	// Loop with order
+	for _, element := range b {
+		fmt.Printf("%v : %v, ", element, a[element])
+	}
 }
