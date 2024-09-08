@@ -15,8 +15,8 @@
 - [X] **Switch**
 - [x] **Loops**
 - [X] **Functions**
-- [ ] **Struct**
-- [ ] **Maps**
+- [x] **Struct**
+- [X] **Maps**
 
 ## Notes
 Keep track of important points or code snippets as you learn.
